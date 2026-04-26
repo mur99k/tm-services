@@ -1,0 +1,231 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "clients": "Clients",
+    "certificates": "Certificates",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Your Trusted Partner in Cleaning & Maintenance Services",
+    "subtitle": "We provide professional and comprehensive solutions for homes and commercial facilities across Saudi Arabia",
+    "cta": "Get a Quote",
+    "stats": {
+      "clients": "Happy Clients",
+      "projects": "Projects Completed",
+      "experience": "Years of Experience"
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "We offer a comprehensive range of cleaning and maintenance services with the highest quality standards",
+    "viewAll": "View All Services",
+    "learnMore": "Learn More",
+    "list": {
+      "ac-cleaning": {
+        "title": "AC Cleaning",
+        "description": "Professional cleaning and maintenance for all types of air conditioners to ensure optimal performance and clean air",
+        "steps": {
+          "1": "Comprehensive AC inspection",
+          "2": "Disassembly of internal parts",
+          "3": "Deep cleaning with specialized materials",
+          "4": "Sanitization and bacteria removal",
+          "5": "Reassembly and testing"
+        }
+      },
+      "sofa-cleaning": {
+        "title": "Sofa & Upholstery Cleaning",
+        "description": "Deep cleaning for sofas and upholstery using the latest technologies to restore their appearance",
+        "steps": {
+          "1": "Fabric type inspection",
+          "2": "Dust and dirt vacuuming",
+          "3": "Tough stain treatment",
+          "4": "Steam cleaning",
+          "5": "Drying and freshening"
+        }
+      },
+      "carpet-cleaning": {
+        "title": "Carpet & Rug Cleaning",
+        "description": "Professional washing of carpets and rugs with complete stain and odor removal",
+        "steps": {
+          "1": "Carpet condition assessment",
+          "2": "Deep dust removal",
+          "3": "Water and shampoo washing",
+          "4": "Rinsing and thorough cleaning",
+          "5": "Drying and reshaping"
+        }
+      },
+      "pest-control": {
+        "title": "Pest Control",
+        "description": "Comprehensive pest control services for all types of insects and rodents using safe materials",
+        "steps": {
+          "1": "Site inspection and assessment",
+          "2": "Pest type identification",
+          "3": "Selection of appropriate pesticides",
+          "4": "Spraying and treatment",
+          "5": "Regular follow-up"
+        }
+      },
+      "water-tank": {
+        "title": "Water Tank Cleaning",
+        "description": "Cleaning and sterilization of water tanks to ensure clean and healthy water",
+        "steps": {
+          "1": "Tank draining",
+          "2": "Sediment and algae removal",
+          "3": "Wall and floor cleaning",
+          "4": "Sterilization with certified materials",
+          "5": "Water quality testing"
+        }
+      },
+      "disinfection": {
+        "title": "Disinfection Services",
+        "description": "Comprehensive disinfection for homes and facilities using the latest sanitization technologies",
+        "steps": {
+          "1": "Space assessment",
+          "2": "Disinfectant selection",
+          "3": "Fog spray disinfection",
+          "4": "Surface sanitization",
+          "5": "Disinfection certificate"
+        }
+      }
+    }
+  },
+  "trust": {
+    "title": "Why Choose Us?",
+    "subtitle": "We are committed to delivering the highest levels of quality and professionalism",
+    "points": {
+      "1": "Trained and professional team",
+      "2": "Using the latest equipment and technologies",
+      "3": "Safe and eco-friendly cleaning materials",
+      "4": "Competitive and transparent pricing",
+      "5": "Excellent 24/7 customer service",
+      "6": "Customer satisfaction guarantee"
+    }
+  },
+  "clients": {
+    "title": "Our Valued Clients",
+    "subtitle": "We are proud of the trust of our clients from major companies and institutions"
+  },
+  "certificates": {
+    "title": "Certificates & Accreditations",
+    "subtitle": "Certified with the most important international quality and safety standards",
+    "list": {
+      "iso9001": {
+        "title": "ISO 9001:2015",
+        "description": "ARS-registered quality management system covering blasting, protective coatings, marine and onshore maintenance, and a broad contracting scope."
+      },
+      "iso14001": {
+        "title": "ISO 14001:2015",
+        "description": "Certified environmental management system aligned with international requirements for responsible operations."
+      },
+      "iso45001": {
+        "title": "ISO 45001:2018",
+        "description": "Occupational health and safety management to reduce risk and protect teams across active work sites."
+      },
+      "saso": {
+        "title": "SASO",
+        "description": "Conformity and quality marking for products and services in line with SASO requirements in Saudi Arabia."
+      }
+    },
+    "gallerySectionTitle": "Experience letters & partner approvals",
+    "gallerySectionSubtitle": "Client letters, accomplishment certificates, and approvals from paint brands, energy, and port operators — tap any card to view the document clearly.",
+    "viewFullCertificate": "View full document",
+    "gallery": [
+      {
+        "title": "Works accomplishment — Gulf Stevedoring",
+        "description": "Confirmation of painting and surface treatment works for yard cranes at Jeddah Islamic Port."
+      },
+      {
+        "title": "Experience letter — Red Sea Gateway Terminal",
+        "description": "Statement on maintenance and repair services for terminal equipment and yard cranes over years of professional cooperation."
+      },
+      {
+        "title": "Letter of appreciation — Petromin",
+        "description": "Recognition of execution quality for blasting and protective coating renewal on storage tanks at Petromin Jeddah."
+      },
+      {
+        "title": "Statement of achievement — Zamil Offshore",
+        "description": "Confirmation of offshore works at Jeddah shipyard: blasting, painting, washing, and hull treatment to safety and quality standards."
+      },
+      {
+        "title": "Certificate of appreciation — Teras Offshore",
+        "description": "Recognition for helideck maintenance (blasting and painting) on the Teras Fortress project."
+      },
+      {
+        "title": "Qualified contractor — Hempel Marine",
+        "description": "Approval as a supply & apply contractor for Hempel marine coatings under approved procedures."
+      },
+      {
+        "title": "Qualified applicator — Interchar (fire protection)",
+        "description": "Recognition of MT SERVICES as a qualified applicator for Interchar intumescent and protective coating systems."
+      },
+      {
+        "title": "Applicator approval — Jotun",
+        "description": "Approval as a competent applicator for Jotun protective and intumescent coatings per manufacturer instructions."
+      },
+      {
+        "title": "Applicator attendance record — Jotun",
+        "description": "Attendance documentation for technical staff in Jotun protective coatings application programmes."
+      },
+      {
+        "title": "Works accomplishment — Gulf Stevedoring (Jubail)",
+        "description": "Completion of painting works for quay cranes at Jubail Commercial Port within the project period."
+      },
+      {
+        "title": "Reference letter — Red Sea Gateway Terminal",
+        "description": "Reference on remedial painting for STS cranes in service and workmanship under port conditions."
+      },
+      {
+        "title": "Works accomplishment — Liebherr quay crane",
+        "description": "Confirmation of washing, rust removal, priming, and topcoat application for a yard crane at Jeddah port."
+      },
+      {
+        "title": "Supporting document — ports & contracting",
+        "description": "Official certificate or letter complementing our track record in painting, maintenance, and heavy equipment."
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "What Our Clients Say",
+    "subtitle": "Our clients' opinions are the best testament to the quality of our services"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We are here to help you. Contact us today",
+    "form": {
+      "name": "Full Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "service": "Required Service",
+      "message": "Your Message",
+      "submit": "Send Message",
+      "selectService": "Select a Service"
+    },
+    "info": {
+      "address": "Address",
+      "addressValue": "Prince Sultan Rd., An Nahdah, Jeddah\nH&R Centre, Office #16\nP.O. Box: 23615",
+      "phone": "Phone",
+      "email": "Email",
+      "hours": "Working Hours",
+      "hoursValue": "Sunday - Thursday: 8 AM - 6 PM"
+    }
+  },
+  "footer": {
+    "description": "A specialized company in cleaning and maintenance services, providing professional solutions for homes and commercial facilities across Saudi Arabia.",
+    "quickLinks": "Quick Links",
+    "ourServices": "Our Services",
+    "contactUs": "Contact Us",
+    "rights": "All Rights Reserved"
+  },
+  "cta": {
+    "title": "Need Our Services?",
+    "subtitle": "Contact us today for a free consultation and quote",
+    "button": "Get a Free Quote"
+  },
+  "serviceDetails": {
+    "features": "Service Features",
+    "process": "Work Process",
+    "getQuote": "Get a Quote",
+    "otherServices": "Other Services You May Like"
+  }
+}
