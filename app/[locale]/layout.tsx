@@ -6,6 +6,7 @@ import { notFound } from 'next/navigation';
 import { routing } from '@/i18n/routing';
 import { Navbar } from '@/components/navbar';
 import { Footer } from '@/components/footer';
+import { RemoveNextJsPortal } from '@/components/dev/remove-nextjs-portal';
 import '../globals.css';
 
 const cairo = Cairo({
@@ -60,6 +61,7 @@ export default async function LocaleLayout({
   return (
     <html lang={locale} dir={isRTL ? 'rtl' : 'ltr'} className="bg-background">
       <body className={`${cairo.variable} ${geist.variable} font-sans antialiased`}>
+        <RemoveNextJsPortal />
         <NextIntlClientProvider messages={messages}>
           <Navbar />
           <main className="min-h-screen">{children}</main>

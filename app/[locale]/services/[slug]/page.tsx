@@ -168,9 +168,9 @@ export default async function ServiceDetailPage({
             </div>
 
             {/* Sidebar */}
-            <div className="lg:col-span-1">
+            <div className="lg:col-span-1 lg:self-start">
               {/* CTA Card */}
-              <div className="bg-[#002D54] rounded-2xl p-8 mb-8 sticky top-24">
+              <div className="bg-[#002D54] rounded-2xl p-8 mb-8 lg:sticky lg:top-24">
                 <h3 className="text-xl font-bold text-white mb-4">
                   {locale === 'ar' ? 'احصل على عرض سعر الآن' : 'Get a Quote Now'}
                 </h3>
